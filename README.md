@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hoangph3/hoangph3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there! I'm Hoang Pham 👋
+
+**AI/ML Engineer, MLOps, AI Solution Architect, Researcher <a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/VN.svg" alt="From VN">
+</a>** 
+
+## <picture><img src = "https://64.media.tumblr.com/tumblr_mc9uqd7o3B1qg6rkio1_500.gifv?raw=true" width = 50px></picture> About Me
