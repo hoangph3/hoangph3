@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-🛰️ I'm an Automation Engineer turned full-stack ML Engineer. With 5+ years of experience in <b>Machine Learning, Signal Processing and Microservices architecture<b>, I focus on <b>optimization
-performance and ensure seamless integration<b> of AI functionalities with existing (legacy) software systems.
+🛰️ I'm an Automation Engineer turned full-stack ML Engineer. With 5+ years of experience in <b>Machine Learning, Signal Processing and Microservices architecture</b>, I focus on <b>optimization
+performance and ensure seamless integration</b> of AI functionalities with existing (legacy) software systems.
 
-- 🎓 &nbsp; I’m a graduate of <b>Hanoi University of Science and Technology (HUST)<b>.
-- 🌱 &nbsp; I provide <b>consulting and implementing services<b> in the areas of ML/AI, <b>data platform implementation, and digital transformation<b>.
+- 🎓 &nbsp; I’m a graduate of <b>Hanoi University of Science and Technology (HUST)</b>.
+- 🌱 &nbsp; I provide <b>consulting and implementing services</b> in the areas of ML/AI, <b>data platform implementation, and digital transformation</b>.
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
