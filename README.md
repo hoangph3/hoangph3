@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 performance and ensure seamless integration</b> of AI functionalities with existing (legacy) software systems.
 
 - 🎓 &nbsp; I’m a graduate of <b>Hanoi University of Science and Technology (HUST)</b>.
-- 🌱 &nbsp; I <b>offer consulting and end-to-end implementation services in AI/ML</b>, digital transformation, data architecture, and high-level strategic technology decision-making. My expertise empowers organizations to harness cutting-edge innovations, accelerate growth, and achieve operational excellence through transformative technology solutions.
+- 🌱 &nbsp; I <b>offer advisory and execution services in the fields of AI/ML</b>, digital transformation, data infrastructure setup, and strategic tech decision-making. My expertise enables me to support organizations in utilizing state-of-the-art technologies to boost business development and streamline their operations.
 
 <!-- Connect with me -->
   <!--h2 without bottom border-->
